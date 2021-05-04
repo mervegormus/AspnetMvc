@@ -1,0 +1,12 @@
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Merve Görmüş\source\repos\AspnetMvc\EntityLayer\obj\Debug\EntityLayer.pdb
