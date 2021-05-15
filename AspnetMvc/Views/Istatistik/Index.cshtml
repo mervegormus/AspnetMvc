@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style="text-align:center;color:darkblue;">İstatikler Sayfası</h2>
+
+
+
+@*<h1>@ViewBag.categoryCount</h1>
+    <h1>@ViewBag.headingCount</h1>
+    <h1>@ViewBag.writersName</h1>
+    <h1>@ViewBag.cateName</h1>
+    <h1>@ViewBag.resultCat</h1>*@
+<div>
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <td>
+                <div style="width:150px;height:100px;text-align:center;background-color:mediumpurple ">
+                    <label style="color:white; text-align:center;font-size:40px;">@ViewBag.categoryCount</label>
+                    <label style="color:white; text-align:center;font-size:20px">Kategori Sayısı</label>
+                </div>
+            </td>
+            <td>
+                <div style="width:150px;height:100px;text-align:center;background-color:Highlight ">
+                    <label style="color:white; text-align:center;font-size:40px;">@ViewBag.headingCount</label>
+                    <label style="color:white; text-align:center;font-size:25px">Başlık Sayısı</label>
+                </div>
+            </td>
+            <td>
+                <div style="width:150px;height:100px;text-align:center;background-color:yellow ">
+                    <label style="color:white; text-align:center;font-size:40px;">@ViewBag.writersName</label>
+                    <label style="color:white; text-align:center;font-size:25px">Yazar Sayısı</label>
+                </div>
+            </td>
+            <td>
+                <div style="width:150px;height:100px;text-align:center;background-color:green ">
+                    <label style="color:white; text-align:center;font-size:40px;">@ViewBag.cateName</label>
+                    <label style="color:white; text-align:center;font-size:20px">Kategori Adı</label>
+                </div>
+            </td>
+            <td>
+                <div style="width:150px;height:100px;text-align:center;background-color:red ">
+                    <label style="color:white; text-align:center;font-size:40px;">@ViewBag.resultCat</label>
+                    <label style="color:white; text-align:center;font-size:15px">Kategori Durum Sayısı</label>
+                </div>
+            </td>
+        </tr>
+       
+    </table>
+   
+</div>
+
+
+
+

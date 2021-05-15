@@ -9,5 +9,6 @@ namespace DataAccessLayet.Abstract
 {
     public interface ICategoryDal:IRepository<Category>
     {
+
     }
 }

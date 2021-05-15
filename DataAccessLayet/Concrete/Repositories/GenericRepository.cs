@@ -27,6 +27,12 @@ namespace DataAccessLayet.Concrete.Repositories
             c.SaveChanges();
         }
 
+        public T Get(Expression<Func<T, bool>> filter)
+        {
+            //bir dizi ve listede sadece bir tane değer geriye döndürmek için kullanılan entityframework linq metotu(SingleOrDefault)
+            return _object.SingleOrDefault(filter);
+        }
+
         public void Insert(T p)
         {
             _object.Add(p);

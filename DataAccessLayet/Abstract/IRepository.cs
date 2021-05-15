@@ -13,9 +13,13 @@ namespace DataAccessLayet.Abstract
 
         void Insert(T p);
 
+        //silinecek ögeyi bulduruyoruz
+        T Get(Expression<Func<T, bool>> filter);
+
         void Delete(T p);
 
         void Update(T p);
+
         //Şartlı listeleme için aşağıdaki fonk yazıldı
         List<T> List(Expression<Func<T, bool>> filter);
 
